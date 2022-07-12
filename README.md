@@ -1,0 +1,10 @@
+- Azhar is a software engineer with experience in programming in 
+  - C++ 
+  -  Java
+  - Python
+  - Javascript
+- Azhar has an interest in web development 🌐 and game development 🎮
+- Azhar wants to develop his skills and build things from scratch
+- Azhar can be reached on his personal twitter @DarkSouls_Pro
+- Azhar streams games here: twitch.tv/azhaaar
+- Azhar uploads videos here: youtube.com/user/thebasher92
